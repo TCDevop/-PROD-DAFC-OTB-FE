@@ -52,4 +52,4 @@ jobs:
           app-name: 'OTBFE'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_73558621194142138EA5C413AC8CB84D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E5C0E8292E54D53A1B2760FB494D422 }}
